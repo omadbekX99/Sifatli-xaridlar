@@ -1,0 +1,2 @@
+# Sifatli-xaridlar
+xaridlar sifati
